@@ -1,0 +1,15 @@
+*.pyc
+.DS_Store
+.idea/*
+*.pickle
+__pycache__/*
+*.pkl
+*.txt
+*.gz
+*.mat
+*.bmp
+*.html
+*.pt
+*.zip
+CIGER/output/*
+CIGER/saved_model/*
